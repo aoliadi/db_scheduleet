@@ -1,15 +1,109 @@
 {
     "posts":[
-      {
-        "id" : 0,
-        "title": "First post!",
-        "content" : "My first content!"
-      },
-      {
-        "id" : 1,
-        "title": "second post!",
-        "content" : "My second content!"
-      }
+        {
+            "name": "Chimamanda Mayowa",
+            "telephone": "07071723103",
+            "time": "1984-11-25 11:55:59",
+            "username": "ifunanya.oluwaseyi",
+            "email": "adaugo.hanifat@nojeem.ng"
+        },
+        {
+            "name": "Rasheedah Simisola Gbogboade",
+            "telephone": "0707 027 1307",
+            "time": "2020-06-23 13:44:20",
+            "username": "aminu.busari",
+            "email": "chimamanda57@gmail.com"
+        },
+        {
+            "name": "Gbeminiyi Musa Leonard",
+            "telephone": "+2348171117717",
+            "time": "1988-05-07 08:53:27",
+            "username": "kubra15",
+            "email": "tekwueme@gmail.com"
+        },
+        {
+            "name": "Isioma Kayode",
+            "telephone": "0903 267 9202",
+            "time": "1995-04-10 03:07:05",
+            "username": "ayebatari65",
+            "email": "oluwanisola.lola@emmanuel.ng"
+        },
+        {
+            "name": "Chizoba Cherechi Ndukwu",
+            "telephone": "+234 706 762 5508",
+            "time": "2003-08-13 15:09:30",
+            "username": "sumayyah.adesina",
+            "email": "funmilade95@hotmail.com"
+        },
+        {
+            "name": "Toluwani Augustina Israel",
+            "telephone": "+2347085517209",
+            "time": "1972-05-21 21:19:48",
+            "username": "amayowa",
+            "email": "ayebatari.ayomide@gmail.com"
+        },
+        {
+            "name": "Ifeoma Aminu Elizabeth",
+            "telephone": "0803 658 7763",
+            "time": "1979-08-06 06:13:29",
+            "username": "jadesola.oyebola",
+            "email": "motalo.toke@abodunrin.org.ng"
+        },
+        {
+            "name": "Ifunanya Makuachukwu",
+            "telephone": "0819 680 4870",
+            "time": "2012-02-16 22:29:17",
+            "username": "olubukola.obioma",
+            "email": "abimbola.uchechi@olubunmi.net"
+        },
+        {
+            "name": "Chinedu Azubuike Osuagwu",
+            "telephone": "+2348093830001",
+            "time": "1977-11-19 01:35:40",
+            "username": "vgrace",
+            "email": "yussuf.kubra@yahoo.com"
+        },
+        {
+            "name": "Ireti Chibike",
+            "telephone": "+2347044670618",
+            "time": "1991-05-05 12:25:01",
+            "username": "tope56",
+            "email": "grace.omawunmi@yahoo.com"
+        },
+        {
+            "name": "Lola Zainab Funmilayo",
+            "telephone": "07096819031",
+            "time": "2016-02-05 01:25:22",
+            "username": "jamiu.buchi",
+            "email": "tolulope.tari@gmail.com"
+        },
+        {
+            "name": "Chiamaka Motalo",
+            "telephone": "+2348180451623",
+            "time": "1992-05-11 11:12:55",
+            "username": "salami.adeboye",
+            "email": "jolayemi.balogun@gmail.com"
+        },
+        {
+            "name": "Akande Joshua",
+            "telephone": "0813 166 7370",
+            "time": "1995-10-20 03:54:42",
+            "username": "abisola.peter",
+            "email": "adegboye.yusuf@gmail.com"
+        },
+        {
+            "name": "Jolayemi Chimamanda Aderinsola",
+            "telephone": "0808 327 0831",
+            "time": "1996-05-11 06:29:13",
+            "username": "buchi.mobolaji",
+            "email": "iayomide@hotmail.com"
+        },
+        {
+            "name": "Titilayo Katherine",
+            "telephone": "+234 903 480 8795",
+            "time": "2020-11-07 21:51:36",
+            "username": "caigbiniode",
+            "email": "kayisat@hotmail.com"
+        }
     ]
 }
-  
