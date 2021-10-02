@@ -1,109 +1,194 @@
 {
-    "posts":[
-        {
-            "name": "Chimamanda Mayowa",
-            "telephone": "07071723103",
-            "time": "1984-11-25 11:55:59",
-            "username": "ifunanya.oluwaseyi",
-            "email": "adaugo.hanifat@nojeem.ng"
-        },
-        {
-            "name": "Rasheedah Simisola Gbogboade",
-            "telephone": "0707 027 1307",
-            "time": "2020-06-23 13:44:20",
-            "username": "aminu.busari",
-            "email": "chimamanda57@gmail.com"
-        },
-        {
-            "name": "Gbeminiyi Musa Leonard",
-            "telephone": "+2348171117717",
-            "time": "1988-05-07 08:53:27",
-            "username": "kubra15",
-            "email": "tekwueme@gmail.com"
-        },
-        {
-            "name": "Isioma Kayode",
-            "telephone": "0903 267 9202",
-            "time": "1995-04-10 03:07:05",
-            "username": "ayebatari65",
-            "email": "oluwanisola.lola@emmanuel.ng"
-        },
-        {
-            "name": "Chizoba Cherechi Ndukwu",
-            "telephone": "+234 706 762 5508",
-            "time": "2003-08-13 15:09:30",
-            "username": "sumayyah.adesina",
-            "email": "funmilade95@hotmail.com"
-        },
-        {
-            "name": "Toluwani Augustina Israel",
-            "telephone": "+2347085517209",
-            "time": "1972-05-21 21:19:48",
-            "username": "amayowa",
-            "email": "ayebatari.ayomide@gmail.com"
-        },
-        {
-            "name": "Ifeoma Aminu Elizabeth",
-            "telephone": "0803 658 7763",
-            "time": "1979-08-06 06:13:29",
-            "username": "jadesola.oyebola",
-            "email": "motalo.toke@abodunrin.org.ng"
-        },
-        {
-            "name": "Ifunanya Makuachukwu",
-            "telephone": "0819 680 4870",
-            "time": "2012-02-16 22:29:17",
-            "username": "olubukola.obioma",
-            "email": "abimbola.uchechi@olubunmi.net"
-        },
-        {
-            "name": "Chinedu Azubuike Osuagwu",
-            "telephone": "+2348093830001",
-            "time": "1977-11-19 01:35:40",
-            "username": "vgrace",
-            "email": "yussuf.kubra@yahoo.com"
-        },
-        {
-            "name": "Ireti Chibike",
-            "telephone": "+2347044670618",
-            "time": "1991-05-05 12:25:01",
-            "username": "tope56",
-            "email": "grace.omawunmi@yahoo.com"
-        },
-        {
-            "name": "Lola Zainab Funmilayo",
-            "telephone": "07096819031",
-            "time": "2016-02-05 01:25:22",
-            "username": "jamiu.buchi",
-            "email": "tolulope.tari@gmail.com"
-        },
-        {
-            "name": "Chiamaka Motalo",
-            "telephone": "+2348180451623",
-            "time": "1992-05-11 11:12:55",
-            "username": "salami.adeboye",
-            "email": "jolayemi.balogun@gmail.com"
-        },
-        {
-            "name": "Akande Joshua",
-            "telephone": "0813 166 7370",
-            "time": "1995-10-20 03:54:42",
-            "username": "abisola.peter",
-            "email": "adegboye.yusuf@gmail.com"
-        },
-        {
-            "name": "Jolayemi Chimamanda Aderinsola",
-            "telephone": "0808 327 0831",
-            "time": "1996-05-11 06:29:13",
-            "username": "buchi.mobolaji",
-            "email": "iayomide@hotmail.com"
-        },
-        {
-            "name": "Titilayo Katherine",
-            "telephone": "+234 903 480 8795",
-            "time": "2020-11-07 21:51:36",
-            "username": "caigbiniode",
-            "email": "kayisat@hotmail.com"
-        }
+    "events": [
+      {
+        "event": "CSC 204",
+        "id": 1
+      },
+      {
+        "event": "Engineering Summit",
+        "id": 2
+      },
+      {
+        "event": "24th Convocation",
+        "id": 3
+      },
+      {
+        "event": "21st Matriculation",
+        "id": 4
+      },
+      {
+        "event": "GNS 101",
+        "id": 5
+      },
+      {
+        "event": "SDG Conference",
+        "id": 6
+      },
+      {
+        "event": "FOSIC 2020",
+        "id": 7
+      },
+      {
+        "event": "UCL Final",
+        "id": 8
+      }
+    ],
+    "eventHalls": [
+      {
+        "id": 1,
+        "event": "CSC 204",
+        "halls": [
+          "S1R",
+          "S2R"
+        ]
+      },
+      {
+        "id": 2,
+        "event": "Engineering Summit",
+        "halls": [
+          "SUN"
+        ]
+      },
+      {
+        "id": 3,
+        "event": "24th Convocation",
+        "halls": [
+          "OLD"
+        ]
+      },
+      {
+        "id": 4,
+        "event": "21st Matriculation",
+        "halls": [
+          "NEW"
+        ]
+      },
+      {
+        "id": 5,
+        "event": "GNS 101",
+        "halls": [
+          "MHL",
+          "EDR",
+          "KMC",
+          "OLD"
+        ]
+      },
+      {
+        "id": 6,
+        "event": "SDG Conference",
+        "halls": [
+          "EDR"
+        ]
+      },
+      {
+        "id": 7,
+        "event": "FOSIC 2020",
+        "halls": [
+          "NEW"
+        ]
+      },
+      {
+        "id": 8,
+        "event": "UCL Final",
+        "halls": [
+          "EDR"
+        ]
+      }
+    ],
+    "centres": [
+      {
+        "id": 1,
+        "hallName": "Moremi Hall",
+        "hallId": "MHL",
+        "capacity": 100,
+        "numOfAvailableSeat": 100,
+        "seatsOccupied": []
+      },
+      {
+        "id": 2,
+        "hallName": "Science Room 1",
+        "hallId": "S1R",
+        "capacity": 50,
+        "numOfAvailableSeat": 50,
+        "seatsOccupied": []
+      },
+      {
+        "id": 3,
+        "hallName": "Science Room 2",
+        "hallId": "S2R",
+        "capacity": 50,
+        "numOfAvailableSeat": 50,
+        "seatsOccupied": []
+      },
+      {
+        "id": 4,
+        "hallName": "Eden Room",
+        "hallId": "EDR",
+        "capacity": 500,
+        "numOfAvailableSeat": 499,
+        "seatsOccupied": [
+          234
+        ]
+      },
+      {
+        "id": 5,
+        "hallName": "Kimmel Center",
+        "hallId": "KMC",
+        "capacity": 150,
+        "numOfAvailableSeat": 150,
+        "seatsOccupied": []
+      },
+      {
+        "id": 6,
+        "hallName": "Suntory Hall",
+        "hallId": "SUN",
+        "capacity": 1500,
+        "numOfAvailableSeat": 1500,
+        "seatsOccupied": []
+      },
+      {
+        "id": 7,
+        "hallName": "Old Town",
+        "hallId": "OLD",
+        "capacity": 2500,
+        "numOfAvailableSeat": 2500,
+        "seatsOccupied": []
+      },
+      {
+        "id": 8,
+        "hallName": "New Town",
+        "hallId": "NEW",
+        "capacity": 2000,
+        "numOfAvailableSeat": 2000,
+        "seatsOccupied": []
+      }
+    ],
+    "userProfiles": [
+      {
+        "id": 1,
+        "firstName": "admin",
+        "lastName": "admin",
+        "userName": "admin",
+        "telephone": "admin",
+        "userSeatNumber": "000",
+        "userId": "001ADMIN",
+        "dateOfRegistration": null,
+        "timeOfRegistration": null,
+        "eventRegisteredFor": null,
+        "mailAddress": null,
+        "hallBookedFor": null
+      },
+      {
+        "firstName": "sdfsa",
+        "lastName": "sdfsf",
+        "telephone": "1561618655849",
+        "userName": "hjgfbb",
+        "mailAddress": "lkkop@podjspd.comsdol",
+        "eventRegisteredFor": "SDG Conference",
+        "hallBookedFor": "Eden Room",
+        "userSeatNumber": 234,
+        "userId": "21EDR234",
+        "id": 2
+      }
     ]
-}
+  }
