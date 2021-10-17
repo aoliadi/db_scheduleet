@@ -1,194 +1,147 @@
 {
-    "events": [
-      {
-        "event": "CSC 204",
-        "id": 1
-      },
-      {
-        "event": "Engineering Summit",
-        "id": 2
-      },
-      {
-        "event": "24th Convocation",
-        "id": 3
-      },
-      {
-        "event": "21st Matriculation",
-        "id": 4
-      },
-      {
-        "event": "GNS 101",
-        "id": 5
-      },
-      {
-        "event": "SDG Conference",
-        "id": 6
-      },
-      {
-        "event": "FOSIC 2020",
-        "id": 7
-      },
-      {
-        "event": "UCL Final",
-        "id": 8
-      }
-    ],
-    "eventHalls": [
-      {
-        "id": 1,
-        "event": "CSC 204",
-        "halls": [
-          "S1R",
-          "S2R"
-        ]
-      },
-      {
-        "id": 2,
-        "event": "Engineering Summit",
-        "halls": [
-          "SUN"
-        ]
-      },
-      {
-        "id": 3,
-        "event": "24th Convocation",
-        "halls": [
-          "OLD"
-        ]
-      },
-      {
-        "id": 4,
-        "event": "21st Matriculation",
-        "halls": [
-          "NEW"
-        ]
-      },
-      {
-        "id": 5,
-        "event": "GNS 101",
-        "halls": [
-          "MHL",
-          "EDR",
-          "KMC",
-          "OLD"
-        ]
-      },
-      {
-        "id": 6,
-        "event": "SDG Conference",
-        "halls": [
-          "EDR"
-        ]
-      },
-      {
-        "id": 7,
-        "event": "FOSIC 2020",
-        "halls": [
-          "NEW"
-        ]
-      },
-      {
-        "id": 8,
-        "event": "UCL Final",
-        "halls": [
-          "EDR"
-        ]
-      }
-    ],
-    "centres": [
-      {
-        "id": 1,
-        "hallName": "Moremi Hall",
-        "hallId": "MHL",
-        "capacity": 100,
-        "numOfAvailableSeat": 100,
-        "seatsOccupied": []
-      },
-      {
-        "id": 2,
-        "hallName": "Science Room 1",
-        "hallId": "S1R",
-        "capacity": 50,
-        "numOfAvailableSeat": 50,
-        "seatsOccupied": []
-      },
-      {
-        "id": 3,
-        "hallName": "Science Room 2",
-        "hallId": "S2R",
-        "capacity": 50,
-        "numOfAvailableSeat": 50,
-        "seatsOccupied": []
-      },
-      {
-        "id": 4,
-        "hallName": "Eden Room",
-        "hallId": "EDR",
-        "capacity": 500,
-        "numOfAvailableSeat": 499,
-        "seatsOccupied": [
-          234
-        ]
-      },
-      {
-        "id": 5,
-        "hallName": "Kimmel Center",
-        "hallId": "KMC",
-        "capacity": 150,
-        "numOfAvailableSeat": 150,
-        "seatsOccupied": []
-      },
-      {
-        "id": 6,
-        "hallName": "Suntory Hall",
-        "hallId": "SUN",
-        "capacity": 1500,
-        "numOfAvailableSeat": 1500,
-        "seatsOccupied": []
-      },
-      {
-        "id": 7,
-        "hallName": "Old Town",
-        "hallId": "OLD",
-        "capacity": 2500,
-        "numOfAvailableSeat": 2500,
-        "seatsOccupied": []
-      },
-      {
-        "id": 8,
-        "hallName": "New Town",
-        "hallId": "NEW",
-        "capacity": 2000,
-        "numOfAvailableSeat": 2000,
-        "seatsOccupied": []
-      }
-    ],
-    "userProfiles": [
-      {
-        "id": 1,
-        "firstName": "admin",
-        "lastName": "admin",
-        "userName": "admin",
-        "telephone": "admin",
-        "userSeatNumber": "000",
-        "userId": "001ADMIN",
-        "dateOfRegistration": null,
-        "timeOfRegistration": null,
-        "eventRegisteredFor": null,
-        "mailAddress": null,
-        "hallBookedFor": null
-      },
-      {
-        "firstName": "sdfsa",
-        "lastName": "sdfsf",
-        "telephone": "1561618655849",
-        "userName": "hjgfbb",
-        "mailAddress": "lkkop@podjspd.comsdol",
-        "eventRegisteredFor": "SDG Conference",
-        "hallBookedFor": "Eden Room",
-        "userSeatNumber": 234,
-        "userId": "21EDR234",
-        "id": 2
-      }
-    ]
-  }
+  "events": [
+    {
+      "id": 1,
+      "event": "CSC 204",
+      "halls": [
+        "S1R",
+        "S2R"
+      ]
+    },
+    {
+      "id": 2,
+      "event": "Engineering Summit",
+      "halls": [
+        "SUN"
+      ]
+    },
+    {
+      "id": 3,
+      "event": "24th Convocation",
+      "halls": [
+        "OLD"
+      ]
+    },
+    {
+      "id": 4,
+      "event": "21st Matriculation",
+      "halls": [
+        "NEW"
+      ]
+    },
+    {
+      "id": 5,
+      "event": "GNS 101",
+      "halls": [
+        "MHL",
+        "EDR",
+        "KMC",
+        "OLD"
+      ]
+    },
+    {
+      "id": 6,
+      "event": "SDG Conference",
+      "halls": [
+        "EDR"
+      ]
+    },
+    {
+      "id": 7,
+      "event": "FOSIC 2020",
+      "halls": [
+        "NEW"
+      ]
+    },
+    {
+      "id": 8,
+      "event": "UCL Final",
+      "halls": [
+        "EDR"
+      ]
+    }
+  ],
+  "centres": [
+    {
+      "id": 1,
+      "hallName": "Moremi Hall",
+      "hallId": "MHL",
+      "capacity": 100,
+      "numOfAvailableSeat": 100,
+      "seatsOccupied": []
+    },
+    {
+      "id": 2,
+      "hallName": "Science Room 1",
+      "hallId": "S1R",
+      "capacity": 50,
+      "numOfAvailableSeat": 50,
+      "seatsOccupied": []
+    },
+    {
+      "id": 3,
+      "hallName": "Science Room 2",
+      "hallId": "S2R",
+      "capacity": 50,
+      "numOfAvailableSeat": 50,
+      "seatsOccupied": []
+    },
+    {
+      "id": 4,
+      "hallName": "Eden Room",
+      "hallId": "EDR",
+      "capacity": 500,
+      "numOfAvailableSeat": 500,
+      "seatsOccupied": [
+      ]
+    },
+    {
+      "id": 5,
+      "hallName": "Kimmel Center",
+      "hallId": "KMC",
+      "capacity": 150,
+      "numOfAvailableSeat": 150,
+      "seatsOccupied": []
+    },
+    {
+      "id": 6,
+      "hallName": "Suntory Hall",
+      "hallId": "SUN",
+      "capacity": 1500,
+      "numOfAvailableSeat": 1500,
+      "seatsOccupied": []
+    },
+    {
+      "id": 7,
+      "hallName": "Old Town",
+      "hallId": "OLD",
+      "capacity": 2500,
+      "numOfAvailableSeat": 2500,
+      "seatsOccupied": []
+    },
+    {
+      "id": 8,
+      "hallName": "New Town",
+      "hallId": "NEW",
+      "capacity": 2000,
+      "numOfAvailableSeat": 2000,
+      "seatsOccupied": []
+    }
+  ],
+  "userProfiles": [
+    {
+      "id": 1,
+      "firstName": "admin",
+      "lastName": "admin",
+      "userName": "admin",
+      "telephone": "admin",
+      "userSeatNumber": "000",
+      "userId": "001ADMIN",
+      "dateOfRegistration": null,
+      "timeOfRegistration": null,
+      "eventRegisteredFor": null,
+      "mailAddress": null,
+      "hallBookedFor": null
+    }
+  ]
+}
