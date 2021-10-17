@@ -129,5 +129,19 @@
     }
   ],
   "userProfiles": [
+    {
+      "id": 1,
+      "firstName": "admin",
+      "lastName": "admin",
+      "userName": "admin",
+      "telephone": "admin",
+      "userSeatNumber": "000",
+      "userId": "001ADMIN",
+      "dateOfRegistration": null,
+      "timeOfRegistration": null,
+      "eventRegisteredFor": null,
+      "mailAddress": null,
+      "hallBookedFor": null
+    }
   ]
 }
